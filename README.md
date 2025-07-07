@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Manoj Kumar Swain
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;10%2B+Years+in+FinTech;Distributed+Systems+Architect;AI-Powered+DevOps+Enthusiast;Microservices+%26+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;10%2B+Years+in+FinTech;Distributed+Systems+Architect;AI-Enthusiast;Microservices+%26+Cloud+Native" alt="Typing SVG" />
 </div>
 
 ## About Me
