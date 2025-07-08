@@ -9,7 +9,6 @@
 - 🔭 I'm currently working on **AI-powered development pipelines**
 - 🌱 I'm currently learning **Advanced Kubernetes patterns, LLM integration in DevOps, and Go microservices architecture**
 - 👯 I'm looking to collaborate on **Open source distributed systems tools, AI-powered developer productivity tools, and FinTech solutions**
-- 🤔 I'm looking for help with **Creating developer communities in Singapore and contributing to major open source projects**
 - 💬 Ask me about **Microservices architecture, zero-downtime migrations, performance optimization, AI in DevOps, or mentoring engineering teams**
 - 📫 How to reach me: **manoj.k.swain.tech@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/manoj-kumar-swain)
 
