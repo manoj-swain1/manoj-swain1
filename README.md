@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-swain1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-swain1&layout=compact&langs_count=20&theme=tokyonight"/>
 </div>
 
 <div align="center">
